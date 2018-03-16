@@ -1,0 +1,9 @@
+{
+   "AppName":"demo",
+   "Version":"1.0.0",
+   "BuildVersion":"1",
+   "AppId":"com.taobao.demo",
+   "CodeSign":"",
+   "Profile":"",
+   "WeexBundle":"index.js"
+}
